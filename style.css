@@ -1,6 +1,36 @@
+body{
+    margin: 1em;
+}
 .box{
+    width: 100px;
+    height: 25px;
     background-color: rgb(34, 115, 88);
     border: 2px solid;
     padding: 25px;
-    
+    justify-content: center; 
+    align-items: center;
+}
+.boxBig{
+    width: 400px;
+    height: 30px;
+    background-color: rgb(34, 115, 88);
+    border: 2px solid;
+    padding: 25px;
+    justify-content: center; 
+}
+#outputRoot{
+    width: 100px;
+    height: 25px;
+}
+#outputToThePowerOf{
+    width: 100px;
+    height: 25px;
+}
+#{
+    width: 100px;
+    height: 25px;
+}
+#{
+    width: 100px;
+    height: 25px;
 }
